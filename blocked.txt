@@ -1,0 +1,5 @@
+{
+    "mediaIdList": ["aaa"],
+    "channelIdList": ["bbbbbb"],
+    "mediaNameList": ["text123 | \"text2345alllang\""]
+  }
