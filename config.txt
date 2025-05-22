@@ -11,6 +11,13 @@
 "current_version": "9.9.9",
 "audio_client_active": false,
 "video_client_active": false,
+"new_target_app_logo": "0", 
+"new_target_app_info_text":"",
+"new_target_app_button_text":"",
+"message_id":"1",
+"message_title":"Attention",
+"message_description":"new app version",
+"is_seen_time":"100",
 "deny_cc": ["US","GB","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR","ES","MX"],
 "gdpr_cc": ["GB","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
 
