@@ -1,5 +1,5 @@
 {
-"target_search_count": 500002,
+"target_search_count": 500003,
 "user_active_time": 30,
 "user_delay_time": 30,
 "is_promotion_active": true,
