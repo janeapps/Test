@@ -10,7 +10,7 @@
 "current_version": "9.9.9",
 "force_update": "10.9.9",
 "new_package_and_redirect": "com.adobe.scan.android", 
-"new_target_app_logo": "0", // htttps link ile network image olacak!
+"new_target_app_logo": "0", 
 
 "audio_client_active": false,
 "video_client_active": false,
