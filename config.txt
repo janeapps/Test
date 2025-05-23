@@ -6,7 +6,7 @@
 "first_ad_step":1,
 "new_user_first_ad_step":3,
 "first_ad_type":1,
-"force_update": "10.9.9",
+"force_update": "9.9.9",
 "new_package_and_redirect": "com.adobe.scan.android", 
 "current_version": "9.9.9",
 "audio_client_active": false,
