@@ -1,11 +1,11 @@
 {
-"target_search_count": 10,
-"user_active_time": 10,
-"user_delay_time": 10,
+"target_search_count": 5,
+"user_active_time": 5,
+"user_delay_time": 5,
 "is_promotion_active": true,
-"first_ad_step":10,
-"new_user_first_ad_step":30,
 "first_ad_type":1,
+"new_user_first_ad_step":3,
+"first_ad_step":1,
 
 "current_version": "9.9.9",
 "force_update": "9.9.9",
@@ -18,7 +18,7 @@
 "message_id":"1",
 "message_title":"ÖNEMLİ BİLGİLENDİRME",
 "message_description":"new app version has been released jfdskljfd fdskljf kljfd jlkf jdlk fds dfds fd dsç.",
-"is_seen_time":10,
+"is_seen_time":100,
 
 "deny_cc": ["US","GB","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR","ES","MX"],
 "gdpr_cc": ["GB","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
