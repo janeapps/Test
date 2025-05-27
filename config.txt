@@ -14,7 +14,7 @@
     "video_client_active": false,
     "message_id": "8",
     "message_title": "Arka planda çalan müziği duranların dikkatine! ",
-    "message_description": "Arka planda müzik dinlerken bir sonraki şarkıya geçmeyip şarkı duruyorsa, cihazınız pil ayarı nedeniyle otomatik şarkıyı durdurmaktadır. Kesintisiz arka planda müzik dinlemeye devam etmek için aşağıdaki butona tıklayın ve pil optimizasyonunu devre dışı bırakın.",
+    "message_description": "Arka planda müzik dinlerken bir sonraki şarkıya geçmeyip şarkı duruyorsa, cihazınız pil ayarı nedeniyle otomatik şarkıyı durdurmaktadır. Kesintisiz arka planda müzik dinlemeye devam etmek için aşağıdaki TAMAM butona tıklayın ve pil optimizasyonunu devre dışı bırakın.",
     "is_seen_time": 0,
     "message_action_button": "8",
     "message_action_url": "0",
