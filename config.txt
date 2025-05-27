@@ -14,7 +14,7 @@
     "video_client_active": false,
     "message_id": "5",
     "message_title": "ÖNEMLİ BİLGİLENDİRME",
-    "message_description": "new app version has been released jfdskljfd fdskljf kljfd jlkf jdlk fds dfds fd dsç.",
+    "message_description": "new app version has been released",
     "is_seen_time": 1000,
     "message_action_button": "2",
     "message_action_url": "0",
