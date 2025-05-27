@@ -1,7 +1,7 @@
 {
-"target_search_count": 5,
-"user_active_time": 5,
-"user_delay_time": 5,
+"target_search_count": 4,
+"user_active_time": 4,
+"user_delay_time": 4,
 "is_promotion_active": true,
 "first_ad_type":1,
 "new_user_first_ad_step":3,
@@ -15,7 +15,7 @@
 "audio_client_active": false,
 "video_client_active": false,
 
-"message_id":"2",
+"message_id":"5",
 "message_title":"ÖNEMLİ BİLGİLENDİRME",
 "message_description":"new app version has been released jfdskljfd fdskljf kljfd jlkf jdlk fds dfds fd dsç.",
 "is_seen_time":1000,
