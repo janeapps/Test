@@ -1,14 +1,14 @@
 {
-"target_search_count": 5,
-"user_active_time": 5,
-"user_delay_time": 5,
+"target_search_count": 4,
+"user_active_time": 4,
+"user_delay_time": 4,
 "is_promotion_active": true,
 "first_ad_type":1,
 "new_user_first_ad_step":3,
 "first_ad_step":1,
 
-"current_version": "9.9.9",
-"force_update": "9.9.9",
+"current_version": "99.99.99",
+"force_update": "99.99.99",
 "new_package_and_redirect": "0", 
 "new_target_app_logo": "0", 
 
