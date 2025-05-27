@@ -6,25 +6,20 @@
 "first_ad_type":1,
 "new_user_first_ad_step":3,
 "first_ad_step":1,
-
 "current_version": "9.9.9",
 "force_update": "9.9.9",
 "new_package_and_redirect": "0", 
 "new_target_app_logo": "0", 
-
 "audio_client_active": false,
 "video_client_active": false,
-
 "message_id":"5",
 "message_title":"ÖNEMLİ BİLGİLENDİRME",
 "message_description":"new app version has been released jfdskljfd fdskljf kljfd jlkf jdlk fds dfds fd dsç.",
 "is_seen_time":1000,
 "message_action_button": "2",
 "message_action_url": "0",
-
 "deny_cc": ["US","GB","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR","ES","MX"],
 "gdpr_cc": ["GB","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
-
 "integrated_player": false,
 "player_configs": [
     {
