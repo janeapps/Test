@@ -12,7 +12,7 @@
     "new_target_app_logo": "0",
     "audio_client_active": false,
     "video_client_active": false,
-    "message_id": "8",
+    "message_id": "9",
     "message_title": "Arka planda çalan müziği duranların dikkatine! ",
     "message_description": "Arka planda müzik dinlerken bir sonraki şarkıya geçmeyip şarkı duruyorsa, cihazınız pil ayarı nedeniyle otomatik şarkıyı durdurmaktadır. Kesintisiz arka planda müzik dinlemeye devam etmek için aşağıdaki TAMAM butona tıklayın ve pil optimizasyonunu devre dışı bırakın.",
     "is_seen_time": 0,
