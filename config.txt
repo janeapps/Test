@@ -12,7 +12,7 @@
     "new_target_app_logo": "0",
     "audio_client_active": false,
     "video_client_active": false,
-    "message_id": "10",
+    "message_id": "0",
     "message_title": "BASLIK",
     "message_description": "ACIKLAMA",
     "is_seen_time": 0,
