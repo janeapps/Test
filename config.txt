@@ -10,7 +10,7 @@
     "force_update": "9.9.9",
     "new_package_and_redirect": "0",
     "new_target_app_logo": "0",
-    "audio_client_active": false,
+    "audio_client_active": true,
     "video_client_active": false,
     "message_id": "2",
     "message_title": "BASLIK",
