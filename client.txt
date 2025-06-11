@@ -11,9 +11,9 @@
         'androidSdkVersion': '32',
         'hl': 'en',
         'timeZone': 'UTC',
-        'utcOffsetMinutes': 0,
-      },
-    },
+        'utcOffsetMinutes': 0
+      }
+    }
     },
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc&prettyPrint=false",
     "headers": {}
