@@ -9,11 +9,11 @@
             'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15,gzip(gfe)',
         'hl': 'en',
         'timeZone': 'UTC',
-        'utcOffsetMinutes': 0,
+        'utcOffsetMinutes': 0
       }
     }
     },
-    "apiUrl": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc&prettyPrint=false",
+    "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
     "headers": {}
   },
   "videoClient": {
