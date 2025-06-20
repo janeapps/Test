@@ -21,6 +21,7 @@
     "message_action_button_text":"BUTTON  cc",
     "is_secure_flag": false,
     "default_audio_client": "IOS",
+    "default_video_client": "ANDROID_VR",
     "deny_cc": [
         "US",
         "GB",
