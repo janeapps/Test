@@ -22,9 +22,9 @@
     "is_secure_flag": false,
     "default_audio_client": "IOS",
     "default_video_client": "ANDROID_VR",
-    "not_show_ads_versions": [30],
+    "not_show_ads_status": true,
+    "not_show_ads_android_api_level": [30],
     "not_show_ads_types": ["mrec", "interstitial"],
-    "is_check_ads_versions": true,
     "deny_cc": [
         "US",
         "GB",
