@@ -22,8 +22,8 @@
     "is_secure_flag": false,
     "default_audio_client": "IOS",
     "default_video_client": "ANDROID_VR",
-    "not_show_ads_versions": [34],
-    "not_show_ads_types": ["banner", "interstitial"],
+    "not_show_ads_versions": [30],
+    "not_show_ads_types": ["mrec", "interstitial"],
     "is_check_ads_versions": false,
     "deny_cc": [
         "US",
