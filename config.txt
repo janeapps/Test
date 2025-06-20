@@ -23,7 +23,7 @@
     "default_audio_client": "IOS",
     "default_video_client": "ANDROID_VR",
     "not_show_ads_versions": [34,30],
-    "not_show_ads_types": ["banner", "mrec"],
+    "not_show_ads_types": ["banner", "interstitial"],
     "is_check_ads_versions": true,
     "deny_cc": [
         "US",
