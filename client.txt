@@ -1,9 +1,9 @@
 {
   "defaultAudioClient": {
     "payload": {
-    "context": {
-      "client": {
-         "clientName": "IOS",
+      "context": {
+        "client": {
+          "clientName": "IOS",
           "clientVersion": "20.10.4",
           "deviceMake": "Apple",
           "deviceModel": "iPhone16,2",
@@ -15,19 +15,20 @@
           "timeZone": "UTC",
           "gl": "US",
           "utcOffsetMinutes": 0
+        }
       }
-    }
     },
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc&prettyPrint=false",
     "headers": {}
   },
-  "defaultAudioClientType": [false],
-  "defaultVideoClientType": [false,true],
- "defaultVideoClient": {
+  "defaultAudioClientType": [
+    false
+  ],
+  "defaultVideoClient": {
     "payload": {
       "context": {
         "client": {
-        "clientName": "ANDROID",
+          "clientName": "ANDROID",
           "clientVersion": "19.09.37",
           "androidSdkVersion": 30,
           "userAgent": "com.google.android.youtube/19.09.37 (Linux; U; Android 11) gzip",
@@ -40,10 +41,13 @@
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
     "headers": {}
   },
+  "defaultVideoClientType": [
+    false
+  ],
   "audioClient": {
     "payload": {
-    "context": {
-      "client": {
+      "context": {
+        "client": {
           "clientName": "ANDROID_VR",
           "clientVersion": "1.56.21",
           "deviceModel": "Quest 3",
@@ -53,8 +57,8 @@
           "hl": "en",
           "timeZone": "UTC",
           "utcOffsetMinutes": 0
+        }
       }
-    }
     },
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
     "headers": {}
@@ -63,7 +67,7 @@
     "payload": {
       "context": {
         "client": {
-        "clientName": "ANDROID_VR",
+          "clientName": "ANDROID_VR",
           "clientVersion": "1.56.21",
           "deviceModel": "Quest 3",
           "osVersion": "12",
