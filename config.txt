@@ -19,7 +19,7 @@
     "message_action_button_text":"BUTTON ",
     "is_secure_flag": false,
     "not_show_ads_status": true,
-    "not_show_ads_android_api_level": [30],
+    "not_show_ads_android_api_level": [28],
     "not_show_ads_types": ["mrec", "interstitial"],
     "mrec_type": [2],
     "mrec_url": ["https://www.instagram.com/forwheel_app/"],
