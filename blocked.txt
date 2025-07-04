@@ -1,5 +1,5 @@
 {
     "mediaIdList": [],
     "channelIdList": [],
-    "mediaNameList": ["Polyglot olmak | \"Her dilde farklı bir karakterim\"", "Dj Oldman -"]
+    "mediaNameList": ["Dj OldMan - Unemployed (Extended House)"]
   }
