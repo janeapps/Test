@@ -1,22 +1,32 @@
 {
-    "mediaIdList": [
-        "fpWccVc_Xzk"
-    ],
-    "channelIdList": [
-        "UCenWG8ydkLWzef6dzrNO6XA",
-        "UCLyHnUnornhwqu3ljgLHnwg"
-    ],
-    "mediaNameList": [
-        "DJ Old Man",
-        "Dj OldMan",
-        "dj oldman",
-        "djoldman",
-        "djold man",
-        "dj.oldman",
-        "Dj.Old Man",
-        "Loop of Dust",
-        "Dj OldMan - Live Set Metadreams-Summer 2022",
-        "Serdar Ortaç - Kış Kış",
-        "Serdar Ortaç - Poşet"
-    ]
+  "mediaIdList": [
+    "fpWccVc_Xzk"
+  ],
+  "channelIdList": [
+    "UCenWG8ydkLWzef6dzrNO6XA",
+    "UCLyHnUnornhwqu3ljgLHnwg",
+    "UCWEzS6TyBN6WM_7E7I_CdMQ",
+    "UCJdr6uENd-opDPnsQ8vqe3g",
+    "UCu0fmt-0zEO-5hSsZobJV3Q",
+    "UCGskNwet-HGWMlwtXN0J7nQ",
+    "UCT2bk-UUtYZHdLfZl93O3Ow",
+    "UCqzFJirK5EYKjVub2QrtBig",
+    "UCaBqFLAuI6lqGzGuzM-izPw"
+  ],
+  "mediaNameList": [
+    "DJ Old Man",
+    "Dj OldMan",
+    "dj oldman",
+    "djoldman",
+    "djold man",
+    "dj.oldman",
+    "Dj.Old Man",
+    "Metin Düzleyen",
+    "MetinDüzleyen",
+    "Loop of Dust",
+    "Ahhh Müjgan",
+    "İstanbul Ağlıyor",
+    "Void Pulse",
+    "Sensiz ve Sessiz"
+  ]
 }
