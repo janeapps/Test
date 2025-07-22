@@ -21,7 +21,7 @@
     "not_show_ads_status": true,
     "not_show_ads_android_api_level": [28],
     "not_show_ads_types": ["mrec", "interstitial"],
-    "mrec_type": 1,
+    "mrec_type": 0,
     "mrec_url": ["https://www.instagram.com/forwheel_app/", "https://play.google.com/store/apps/details?id=com.farlightgames.samo.gp"],
      "first_mrec_ads_image": [
 "https://imgs.search.brave.com/jq1DTHKHnF_WhVhTLnHWLhkWGp0W44HqPfyulPQGQKo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cGVyYWtlbmRleC5j/b20vVXBsb2Fkcy9V/cnVuUmVzaW1sZXJp/L0JpemktSW5zdGFn/cmFtRGEtVGFraXAt/RWRpbi0tRE9OS0FS/VC0tb3YtMjUyZi5H/SUY.jpeg",
