@@ -32,7 +32,7 @@
 "https://imgs.search.brave.com/SP9j19u8MgLkVof8KEx4I1bXG0aXuWR-JF85t77JWhc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kMWNz/YXJrejhvYmU5dS5j/bG91ZGZyb250Lm5l/dC9wb3N0ZXJwcmV2/aWV3cy9mb2xsb3ct/dXMtb24tdGlrdG9r/LWRlc2lnbi10ZW1w/bGF0ZS0xMDYyNGEx/Njc4YWYxYzMwZTA4/NWZkOTU1NDIwMjc1/M19zY3JlZW4uanBn/P3RzPTE2NjQ3MzYz/MjU"
     ], 
     "is_show_related": true,
-    "is_redirect_banned_user": false,
+    "is_redirect_banned_user": true,
     "deny_cc": [
         "US",
         "GB",
