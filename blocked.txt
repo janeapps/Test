@@ -15,10 +15,6 @@
   ],
   "mediaNameList": [
     "DJ Old Man",
-    "Dj OldMan",
-    "dj oldman",
-    "djoldman",
-    "djold man",
     "dj.oldman",
     "Dj.Old Man",
     "Metin Düzleyen",
