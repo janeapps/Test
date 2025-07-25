@@ -22,6 +22,7 @@
     "Ahhh Müjgan",
     "İstanbul Ağlıyor",
     "Void Pulse",
-    "Sensiz ve Sessiz"
+    "Sensiz ve Sessiz",
+    "özür dilerim"
   ]
 }
