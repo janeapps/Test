@@ -14,9 +14,6 @@
     "UCaBqFLAuI6lqGzGuzM-izPw"
   ],
   "mediaNameList": [
-    "TarKaN",
-    "DJ Old Man",
-    "dj.oldman",
     "Dj.Old Man",
     "Metin Düzleyen",
     "MetinDüzleyen",
