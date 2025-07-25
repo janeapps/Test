@@ -1,6 +1,7 @@
 {
   "mediaIdList": [
-    "fpWccVc_Xzk"
+    "fpWccVc_Xzk",
+    "Xs02oKjaUqc"
   ],
   "channelIdList": [
     "UCenWG8ydkLWzef6dzrNO6XA",
