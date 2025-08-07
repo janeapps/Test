@@ -10,7 +10,7 @@
     "force_update": "1.0.0",
     "new_package_and_redirect": "0",
     "new_target_app_logo": "0",
-    "message_id": "10",
+    "message_id": "0",
     "message_title": "BASLIK 2",
     "message_description": "ACIKLAMA",
     "is_seen_time": 0,
