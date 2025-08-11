@@ -23,7 +23,6 @@
     "İstanbul Ağlıyor",
     "Void Pulse",
     "Sensiz ve Sessiz",
-    "özür dilerim",
-    "git"
+    "özür dilerim"
   ]
 }
