@@ -3,7 +3,7 @@
     "user_active_time":3,
     "user_delay_time": 3,
     "is_promotion_active": true,
-    "first_ad_type": 1,
+    "first_ad_type": 0,
     "new_user_first_ad_step": 3,
     "first_ad_step": 1,
     "current_version": "1.0.0",
