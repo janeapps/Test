@@ -4,6 +4,7 @@
     "Xs02oKjaUqc"
   ],
   "channelIdList": [
+    "UCiAr3BkNuPdjP-sT1W-uK-w",
     "UCenWG8ydkLWzef6dzrNO6XA",
     "UCLyHnUnornhwqu3ljgLHnwg",
     "UCWEzS6TyBN6WM_7E7I_CdMQ",
