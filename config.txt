@@ -21,15 +21,15 @@
     "not_show_ads_status": true,
     "not_show_ads_android_api_level": [28],
     "not_show_ads_types": ["mrec", "interstitial"],
-    "mrec_type": 0,
+    "mrec_type": 2,
     "mrec_url": ["https://www.instagram.com/forwheel_app/", "https://play.google.com/store/apps/details?id=com.farlightgames.samo.gp"],
      "first_mrec_ads_image": [
 "https://i.ibb.co/LX4Ljw5C/sarkievreni-fastsave-05.png",
      "https://i.ibb.co/LX4Ljw5C/sarkievreni-fastsave-05.png"
   ],
     "second_mrec_ads_image": [
-"https://imgs.search.brave.com/yPup2SMoaiGaNgOhGTQKR1uEjtgjIlU1RX6VgwLNMV8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zb3N5/YWxkaWdpdGFsLmNv/bS91cGxvYWQvdGlr/dG9rLXRha2lwY2kt/bmFzaWwtc2F0aW4t/YXNsaW5pci01MDI4/ODQucG5n",
-"https://imgs.search.brave.com/SP9j19u8MgLkVof8KEx4I1bXG0aXuWR-JF85t77JWhc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kMWNz/YXJrejhvYmU5dS5j/bG91ZGZyb250Lm5l/dC9wb3N0ZXJwcmV2/aWV3cy9mb2xsb3ct/dXMtb24tdGlrdG9r/LWRlc2lnbi10ZW1w/bGF0ZS0xMDYyNGEx/Njc4YWYxYzMwZTA4/NWZkOTU1NDIwMjc1/M19zY3JlZW4uanBn/P3RzPTE2NjQ3MzYz/MjU"
+"https://i.ibb.co/VYPnwDT7/sarkievreni-fastsave-06.png",
+"https://i.ibb.co/VYPnwDT7/sarkievreni-fastsave-06.png"
     ], 
     "is_show_related": true,
     "is_redirect_banned_user": false,
