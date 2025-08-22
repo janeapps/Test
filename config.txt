@@ -33,7 +33,7 @@
     ], 
     "is_show_related": true,
     "is_redirect_banned_user": false,
-    "is_reference_active": false,
+    "is_reference_active": true,
     "deny_cc": [
         "US",
         "GB",
