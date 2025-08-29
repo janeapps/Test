@@ -28,8 +28,8 @@
      "https://i.ibb.co/LX4Ljw5C/sarkievreni-fastsave-05.png"
   ],
     "second_mrec_ads_image": [
-"https://i.ibb.co/VYPnwDT7/sarkievreni-fastsave-06.png",
-"https://i.ibb.co/VYPnwDT7/sarkievreni-fastsave-06.png"
+"https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png",
+"https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png"
     ], 
     "is_show_related": true,
     "is_redirect_banned_user": false,
