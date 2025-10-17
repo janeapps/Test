@@ -20,7 +20,7 @@
     "headers": {}
   },
   "defaultAudioClientType": [
-    false
+    true
   ],
   "defaultVideoClient": {
     "payload": {
