@@ -41,6 +41,7 @@
     "headers": {}
   },
   "defaultVideoClientType": [
+    false,
     true
   ],
   "audioClient": {
