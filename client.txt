@@ -22,7 +22,25 @@
     true
   ],
   "defaultVideoClient": {
-    "payload": {
+ "payload": {
+      "context": {
+        "client": {
+          "clientName": "ANDROID",
+          "clientVersion": "19.09.37",
+          "androidSdkVersion": 30,
+          "userAgent": "com.google.android.youtube/19.09.37 (Linux; U; Android 11) gzip",
+          "hl": "en",
+          "timeZone": "UTC",
+          "utcOffsetMinutes": 0
+        }
+      }
+    },
+    "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+    "headers": {}
+ 
+  },
+  "defaultVideoClient_new": {
+   "payload": {
       "context": {
         "client": {
           "clientName": "ANDROID",
