@@ -21,16 +21,10 @@
     "not_show_ads_status": true,
     "not_show_ads_android_api_level": [28],
     "not_show_ads_types": ["mrec", "interstitial"],
-    "mrec_type": 2,
-    "mrec_url": ["https://www.instagram.com/forwheel_app/", "https://play.google.com/store/apps/details?id=com.farlightgames.samo.gp"],
-     "first_mrec_ads_image": [
-"https://i.ibb.co/LX4Ljw5C/sarkievreni-fastsave-05.png",
-     "https://i.ibb.co/LX4Ljw5C/sarkievreni-fastsave-05.png"
-  ],
-    "second_mrec_ads_image": [
-"https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png",
-"https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png"
-    ], 
+    "mrec_type": 0,
+    "mrec_url": [],
+     "first_mrec_ads_image": [],
+    "second_mrec_ads_image": [], 
     "is_show_related": true,
     "is_redirect_banned_user": false,
     "is_reference_active": false,
