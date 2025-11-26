@@ -1,7 +1,7 @@
 {
-    "target_search_count":1,
-    "user_active_time":1,
-    "user_delay_time": 1,
+    "target_search_count":2,
+    "user_active_time":2,
+    "user_delay_time": 2,
     "is_promotion_active": true,
     "first_ad_type": 1,
     "new_user_first_ad_step": 3,
@@ -10,7 +10,7 @@
     "force_update": "1.0.0",
     "new_package_and_redirect": "0",
     "new_target_app_logo": "0",
-    "message_id": "0",
+    "message_id": "1",
     "message_title": "Playlist eklendi!",
     "message_description": "Hemen yeni playlistini olustur ve kullanmaya basla!",
     "is_seen_time": 0,
@@ -31,9 +31,9 @@
 "https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png",
 "https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png"
     ], 
-    "is_show_related": true,
+    "is_show_related": false,
     "is_redirect_banned_user": false,
-    "is_reference_active": true,
+    "is_reference_active": falsle,
     "is_show_promotion_dialog": true,
     "deny_cc": [
         "US",
