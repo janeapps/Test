@@ -31,7 +31,7 @@
 "https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png",
 "https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png"
     ], 
-    "is_show_related": false,
+    "is_show_related": true,
     "is_redirect_banned_user": false,
     "is_reference_active": true,
     "is_show_promotion_dialog": true,
