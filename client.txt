@@ -1,5 +1,19 @@
 {
-  "defaultAudioClient": {},
+  "defaultAudioClient": {
+   "payload": {
+      "context": {
+      "client": {
+        "clientName": "MEDIA_CONNECT_FRONTEND",
+        "clientVersion": "0.1",
+        "hl": "en",
+        "timeZone": "UTC",
+        "utcOffsetMinutes": 0
+      }
+    }
+    },
+    "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+    "headers": {}
+  },
   "defaultAudioClientType": [
     true
   ],
@@ -27,7 +41,21 @@
     false,
     true
   ],
-  "audioClient": {},
+  "audioClient": {
+    "payload": {
+     "context": {
+      "client": {
+        "clientName": "WEB_CREATOR",
+        "clientVersion": "1.20240723.03.00",
+        "hl": "en",
+        "timeZone": "UTC",
+        "utcOffsetMinutes": 0
+      }
+    }
+    },
+    "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+    "headers": {}
+  },
   "videoClient": {
     "payload": {
       "context": {
