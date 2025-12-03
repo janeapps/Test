@@ -8,7 +8,7 @@
     "first_ad_step": 1,
     "current_version": "1.0.0",
     "force_update": "3.0.0",
-    "new_package_and_redirect": "0",
+    "new_package_and_redirect": "com.mzk.evr",
     "new_target_app_logo": "0",
     "message_id": "0",
     "message_title": "Playlist eklendi!",
