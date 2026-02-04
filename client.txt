@@ -3,8 +3,11 @@
    "payload": {
       "context": {
       "client": {
-        "clientName": "MEDIA_CONNECT_FRONTEND",
-        "clientVersion": "0.1",
+        "clientName": "ANDROID_MUSIC",
+        "clientVersion": "2.16.032",
+        "androidSdkVersion": 31,
+        "userAgent":
+            "com.google.android.youtube/19.29.1  (Linux; U; Android 11) gzip",
         "hl": "en",
         "timeZone": "UTC",
         "utcOffsetMinutes": 0
@@ -54,17 +57,25 @@
   },
   "videoClient": {
     "payload": {
-   "context": {
+ "context": {
       "client": {
-        "clientName": "WEB_CREATOR",
-        "clientVersion": "1.20240723.03.00",
+        "clientName": "IOS",
+        "clientVersion": "20.10.4",
+        "deviceMake": "Apple",
+        "deviceModel": "iPhone16,2",
+        "userAgent":
+            "com.google.ios.youtube/20.10.4 (iPhone16,2; U; CPU iOS 18_3_2 like Mac OS X;)",
         "hl": "en",
+        "platform": "MOBILE",
+        "osName": "IOS",
+        "osVersion": "18.1.0.22B83",
         "timeZone": "UTC",
+        "gl": "US",
         "utcOffsetMinutes": 0
       }
     }
     },
-    "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+    "apiUrl": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc&prettyPrint=false",
     "headers": {}
   }
 }
