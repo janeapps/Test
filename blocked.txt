@@ -24,6 +24,7 @@
     "İstanbul Ağlıyor",
     "Void Pulse",
     "Sensiz ve Sessiz",
-    "özür dilerim"
+    "özür dilerim",
+    "sagopa"
   ]
 }
