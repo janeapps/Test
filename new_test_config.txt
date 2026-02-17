@@ -8,7 +8,7 @@
     "first_ad_step": 1,
     "current_version": "1.0.0",
     "force_update": "2.0.0",
-    "new_package_and_redirect": "0",
+    "new_package_and_redirect": "com.sarkievreni.musicplayer",
     "deny_cc": [
         "US",
         "GB",
