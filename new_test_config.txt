@@ -1,7 +1,7 @@
 {
     "current_version": "1.0.0",
     "force_update": "3.0.0",
-    "new_package_and_redirect": "com.mzk.evr",
+    "new_package_and_redirect": "0",
     "deny_cc": [
         "US",
         "GB",
