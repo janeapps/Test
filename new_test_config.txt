@@ -4,65 +4,36 @@
   "new_package_and_redirect": "0",
   "new_user_first_ad_step": 3,
   "first_ad_step": 1,
-  "first_rare_duration": 3,
-  "second_rare_duration": 5,
-  "first_normal_duration":10,
-  "second_normal_duration":30,
-  "first_frequent_duration": 5,
-  "second_frequent_duration": 20,
-  "rare_ad_countries":["TR", "US"],
-  "normal_ad_countries":[ "SI","ES","SE"],
-  "frequent_ad_countries":[ "MT","CY","CZ"],
+  "tiers": {
+    "tier1": {
+      "first_ad_delay": 10,
+      "repeat_interval": 30,
+      "country_codes": ["US", "CA", "GB"]
+    },
+    "tier2": {
+      "first_ad_delay": 8,
+      "repeat_interval": 20,
+      "country_codes": ["ES",  "MY", "ID"]
+    },
+    "tier3": {
+      "first_ad_delay": 3,
+      "repeat_interval": 10,
+      "country_codes": ["IN","TR", "PH", "VN", "PK", "BD"]
+    }
+  },
+  "default_tier": {
+    "tier": "default",
+    "first_ad_delay": 15,
+    "repeat_interval": 30
+  },
   "deny_cc": [
-    "US",
-    "GB",
-    "MY",
-    "PH",
-    "IN",
-    "JP",
-    "CN",
-    "UY",
-    "TH",
-    "CA",
-    "IE",
-    "IL",
-    "BR",
-    "SG",
-    "KR",
-    "ES",
-    "MX"
+    "US", "GB", "MY", "PH", "IN", "JP", "CN", "UY",
+    "TH", "CA", "IE", "IL", "BR", "SG", "KR", "ES", "MX"
   ],
   "gdpr_cc": [
-    "GB",
-    "AT",
-    "BE",
-    "BG",
-    "HR",
-    "CY",
-    "CZ",
-    "DK",
-    "EE",
-    "FI",
-    "FR",
-    "DE",
-    "GR",
-    "HU",
-    "IS",
-    "IE",
-    "IT",
-    "LV",
-    "LI",
-    "LT",
-    "LU",
-    "MT",
-    "NL",
-    "NO",
-    "PL",
-    "PT",
-    "RO",
-    "SK",
-    "SI",
-    "ES",
-    "SE"
+    "GB", "AT", "BE", "BG", "HR", "CY", "CZ", "DK",
+    "EE", "FI", "FR", "DE", "GR", "HU", "IS", "IE",
+    "IT", "LV", "LI", "LT", "LU", "MT", "NL", "NO",
+    "PL", "PT", "RO", "SK", "SI", "ES", "SE"
   ]
 }
