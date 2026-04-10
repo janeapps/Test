@@ -1,9 +1,13 @@
 {
-  "current_version": "1.0.0",
-  "force_update": "1.0.0",
-  "new_package_and_redirect": "0",
-  "new_user_first_ad_step": 3,
-  "first_ad_step": 1,
+  "update_config": {
+      "current_version": "1.0.0",
+      "force_update": "1.0.0",
+      "new_package_and_redirect": "0",
+    },
+  "ad_steps": {
+    "new_user_first_ad_step": 3,
+    "first_ad_step": 1,
+    },
   "tiers": {
     "tier1": {
       "first_ad_delay": 10,
