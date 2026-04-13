@@ -1,8 +1,8 @@
 {
   "update_config": {
-      "current_version": "1.0.0",
-      "force_update": "44.0.0",
-      "new_package_and_redirect": "com.sarkievreni.musicplayer"
+      "current_version": "3.0.0",
+      "force_update": "1.0.0",
+      "new_package_and_redirect": "0"
     },
   "ad_steps": {
     "new_user_first_ad_step": 3,
