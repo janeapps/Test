@@ -29,6 +29,6 @@
     "Void Pulse",
     "Sensiz ve Sessiz",
     "özür dilerim",
-    "sagopa"
+    "sagopa kajmer"
   ]
 }
