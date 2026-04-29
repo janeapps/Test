@@ -17,7 +17,8 @@
     "UCqzFJirK5EYKjVub2QrtBig",
     "UCaBqFLAuI6lqGzGuzM-izPw",
     "UCnxZBLfmnZwjh8vSg6Kt-Dg",
-    "UC-7fJF4x8vV7Ynyp47h-Zow"
+    "UC-7fJF4x8vV7Ynyp47h-Zow",
+    "UCVD6tyU-TSaXjBmT-95gSQg"
   ],
   "mediaNameList": [
     "Dj. Old ,,,: Man 78 4",
