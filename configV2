@@ -1,9 +1,9 @@
 {
   "decisionPriority": [
     "redirect",
+    "forceUpdate",
     "block",
     "maintenance",
-    "forceUpdate",
     "softUpdate",
     "appProperties",
     "adConfig",
