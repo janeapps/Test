@@ -40,11 +40,13 @@
     "block": [
       {
         "id": "block_access",
-        "enabled": false,
+        "enabled": true,
         "matchMode": "and",
         "targeting": {
           "countries": {
-            "include": [],
+            "include": [
+              "US"
+            ],
             "exclude": []
           },
           "platforms": [
