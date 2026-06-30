@@ -303,8 +303,8 @@
             "versions": []
           },
           "value": {
-            "firstAdDelay": 3,
-            "repeatInterval": 10,
+            "firstAdDelay": 2,
+            "repeatInterval": 2,
             "newUserFirstAdStep": 3,
             "firstAdStep": 1
           }
