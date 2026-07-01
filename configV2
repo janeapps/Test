@@ -110,8 +110,8 @@
     "softUpdate": [
       {
         "id": "soft_update_versions",
-        "enabled": false,
-        "matchMode": "and",
+        "enabled": true,
+        "matchMode": "or",
         "targeting": {
           "countries": {
             "include": [],
@@ -408,9 +408,7 @@
           "targeting": {
             "countries": {
               "include": [],
-              "exclude": [
-                "TR"
-              ]
+              "exclude": []
             },
             "platforms": [
               "android",
