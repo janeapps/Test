@@ -17,8 +17,8 @@
     "redirect": [
       {
         "id": "redirect_regular_users",
-        "enabled": true,
-        "matchMode": "or",
+        "enabled": false,
+        "matchMode": "and",
         "targeting": {
           "countries": {
             "include": [],
