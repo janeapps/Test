@@ -408,7 +408,9 @@
           "targeting": {
             "countries": {
               "include": [],
-              "exclude": []
+              "exclude": [
+                "TR"
+              ]
             },
             "platforms": [
               "android",
