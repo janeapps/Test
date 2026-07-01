@@ -1,10 +1,14 @@
 {
+  "schemaVersion": 1,
+  "configVersion": 1,
+  "updatedAt": "2026-07-01T05:36:43.810Z",
   "decisionPriority": [
     "redirect",
+    "priority",
     "forceUpdate",
     "block",
-    "maintenance",
     "softUpdate",
+    "maintenance",
     "appProperties",
     "adConfig",
     "featureFlags"
@@ -32,36 +36,13 @@
         "value": {
           "androidUrl": "market://details?id=com.fastsave.musicplayer",
           "iosUrl": "https://apps.apple.com/app/id000000000",
-          "showInterstitialAd": true
-        }
-      }
-      
-    ],
-    "block": [
-      {
-        "id": "block_access",
-        "enabled": true,
-        "matchMode": "and",
-        "targeting": {
-          "countries": {
-            "include": [
-              "US"
-            ],
-            "exclude": []
-          },
-          "platforms": [
-            "android",
-            "ios"
-          ],
-          "versions": [
-          
-          ]
+          "showInterstitialAd": false
         }
       }
     ],
-    "maintenance": [
+    "priority": [
       {
-        "id": "maintenance_versions",
+        "id": "priority_rule",
         "enabled": false,
         "matchMode": "and",
         "targeting": {
@@ -73,7 +54,12 @@
             "android",
             "ios"
           ],
-          "versions": [  ]
+          "versions": [],
+          "userTypes": []
+        },
+        "value": {
+          "androidUrl": "market://details?id=com.fastsave.musicplayer",
+          "iosUrl": "https://apps.apple.com/app/id000000000"
         }
       }
     ],
@@ -91,12 +77,33 @@
             "android",
             "ios"
           ],
-          "versions": [  ]
+          "versions": [],
+          "userTypes": []
         },
         "value": {
           "androidUrl": "market://details?id=com.powertube.app",
-          "iosUrl": "https://apps.apple.com/app/id000000000",
-          "showInterstitialAd": true
+          "iosUrl": "https://apps.apple.com/app/id000000000"
+        }
+      }
+    ],
+    "block": [
+      {
+        "id": "block_access",
+        "enabled": true,
+        "matchMode": "and",
+        "targeting": {
+          "countries": {
+            "include": [
+              "US"
+            ],
+            "exclude": []
+          },
+          "platforms": [
+            "android",
+            "ios"
+          ],
+          "versions": [],
+          "userTypes": []
         }
       }
     ],
@@ -114,7 +121,27 @@
             "android",
             "ios"
           ],
-          "versions": [  ]
+          "versions": [],
+          "userTypes": []
+        }
+      }
+    ],
+    "maintenance": [
+      {
+        "id": "maintenance_versions",
+        "enabled": false,
+        "matchMode": "and",
+        "targeting": {
+          "countries": {
+            "include": [],
+            "exclude": []
+          },
+          "platforms": [
+            "android",
+            "ios"
+          ],
+          "versions": [],
+          "userTypes": []
         }
       }
     ],
@@ -133,7 +160,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ],
@@ -183,7 +211,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ]
@@ -197,13 +226,14 @@
           "targeting": {
             "countries": {
               "include": [],
-              "exclude": [  ]
+              "exclude": []
             },
             "platforms": [
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": "applovin"
         }
@@ -222,8 +252,8 @@
               "android",
               "ios"
             ],
-            "versions": [
-            ]
+            "versions": [],
+            "userTypes": []
           }
         }
       ],
@@ -245,7 +275,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 10,
@@ -271,7 +302,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 8,
@@ -300,7 +332,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 2,
@@ -335,7 +368,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 15,
@@ -361,7 +395,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ],
@@ -379,7 +414,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ]
