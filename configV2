@@ -1,4 +1,5 @@
-{   "schemaVersion":1,
+{
+   "schemaVersion":1,
    "configVersion":19,
    "updatedAt":"2026-04-27T00:00:00Z",
    "decisionPriority":[
@@ -480,13 +481,42 @@
                      "include":[
                         
                      ],
-                     "exclude":[ ]
+                     "exclude":[
+                        
+                     ]
                   },
                   "platforms":[
                      "android",
                      "ios"
                   ],
                   "versions":[
+                     
+                  ]
+               }
+            }
+         ],
+         "proFeature":[
+            {
+               "id":"pro_feature_rule",
+               "enabled":true,
+               "matchMode":"and",
+               "targeting":{
+                  "countries":{
+                     "include":[
+                        
+                     ],
+                     "exclude":[
+                        
+                     ]
+                  },
+                  "platforms":[
+                     "android",
+                     "ios"
+                  ],
+                  "versions":[
+                     
+                  ],
+                  "userTypes":[
                      
                   ]
                }
