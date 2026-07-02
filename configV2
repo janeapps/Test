@@ -498,8 +498,8 @@
          "proFeature":[
             {
                "id":"pro_feature_rule",
-               "enabled":false,
-               "matchMode":"true",
+               "enabled":true,
+               "matchMode":"and",
                "targeting":{
                   "countries":{
                      "include":[
