@@ -499,7 +499,7 @@
             {
                "id":"pro_feature_rule",
                "enabled":false,
-               "matchMode":"and",
+               "matchMode":"true",
                "targeting":{
                   "countries":{
                      "include":[
