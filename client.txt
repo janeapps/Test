@@ -1,51 +1,47 @@
-
 {
   "defaultAudioClient": {
-    "payload": {
-      "context": {
-        "client": {
-          "clientName": "ANDROID_VR",
-          "clientVersion": "1.60.19",
-          "deviceMake": "Oculus",
-          "deviceModel": "Quest 3",
-          "osName": "Android",
-          "osVersion": "12L",
-          "platform": "MOBILE",
-          "hl": "en",
-          "gl": "US",
-          "utcOffsetMinutes": 0
-        }
-      }
+   "payload": {
+        "context": {
+                "client": {
+                  "clientName": "ANDROID_VR",
+                  "clientVersion": "1.60.19",
+                  "deviceMake": "Oculus",
+                  "deviceModel": "Quest 3",
+                  "osName": "Android",
+                  "osVersion": "12L",
+                  "platform": "MOBILE",
+                  "hl": "en",
+                  "gl": "US",
+                  "utcOffsetMinutes": 0
+                }
+              }
     },
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
-    "headers": {
-      
-    }
+    "headers": {}
   },
   "defaultAudioClientType": [
     true
   ],
+
   "defaultVideoClient": {
-    "payload": {
-      "context": {
-        "client": {
-          "clientName": "ANDROID_VR",
-          "clientVersion": "1.60.19",
-          "deviceMake": "Oculus",
-          "deviceModel": "Quest 3",
-          "osName": "Android",
-          "osVersion": "12L",
-          "platform": "MOBILE",
-          "hl": "en",
-          "gl": "US",
-          "utcOffsetMinutes": 0
-        }
-      }
+   "payload": {
+        "context": {
+                "client": {
+                  "clientName": "ANDROID_VR",
+                  "clientVersion": "1.60.19",
+                  "deviceMake": "Oculus",
+                  "deviceModel": "Quest 3",
+                  "osName": "Android",
+                  "osVersion": "12L",
+                  "platform": "MOBILE",
+                  "hl": "en",
+                  "gl": "US",
+                  "utcOffsetMinutes": 0
+                }
+              }
     },
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
-    "headers": {
-      
-    }
+    "headers": {}
   },
   "defaultVideoClientType": [
     false,
@@ -53,46 +49,42 @@
   ],
   "audioClient": {
     "payload": {
-      "context": {
-        "client": {
-          "clientName": "ANDROID_VR",
-          "clientVersion": "1.60.19",
-          "deviceMake": "Oculus",
-          "deviceModel": "Quest 3",
-          "osName": "Android",
-          "osVersion": "12L",
-          "platform": "MOBILE",
-          "hl": "en",
-          "gl": "US",
-          "utcOffsetMinutes": 0
-        }
-      }
+    "context": {
+                "client": {
+                  "clientName": "ANDROID_VR",
+                  "clientVersion": "1.60.19",
+                  "deviceMake": "Oculus",
+                  "deviceModel": "Quest 3",
+                  "osName": "Android",
+                  "osVersion": "12L",
+                  "platform": "MOBILE",
+                  "hl": "en",
+                  "gl": "US",
+                  "utcOffsetMinutes": 0
+                }
+              }
     },
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
-    "headers": {
-      
-    }
+    "headers": {}
   },
   "videoClient": {
     "payload": {
-      "context": {
-        "client": {
-          "clientName": "ANDROID_VR",
-          "clientVersion": "1.60.19",
-          "deviceMake": "Oculus",
-          "deviceModel": "Quest 3",
-          "osName": "Android",
-          "osVersion": "12L",
-          "platform": "MOBILE",
-          "hl": "en",
-          "gl": "US",
-          "utcOffsetMinutes": 0
-        }
-      }
+  "context": {
+                "client": {
+                  "clientName": "ANDROID_VR",
+                  "clientVersion": "1.60.19",
+                  "deviceMake": "Oculus",
+                  "deviceModel": "Quest 3",
+                  "osName": "Android",
+                  "osVersion": "12L",
+                  "platform": "MOBILE",
+                  "hl": "en",
+                  "gl": "US",
+                  "utcOffsetMinutes": 0
+                }
+              }
     },
     "apiUrl": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc&prettyPrint=false",
-    "headers": {
-      
-    }
+    "headers": {}
   }
 }
