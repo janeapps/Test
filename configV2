@@ -275,6 +275,29 @@
       "adConfig":{
          "provider":[
             {
+               "id":"ads_provider_casai",
+               "enabled":true,
+               "matchMode":"and",
+               "targeting":{
+                  "countries":{
+                     "include":[
+                        
+                     ],
+                     "exclude":[
+                        
+                     ]
+                  },
+                  "platforms":[
+                     "android",
+                     "ios"
+                  ],
+                  "versions":[
+                     "<1.2.1"
+                  ]
+               },
+               "value":"casai"
+            },
+            {
                "id":"ads_provider_default",
                "enabled":true,
                "matchMode":"and",
@@ -292,10 +315,10 @@
                      "ios"
                   ],
                   "versions":[
-                     
+                     ">=1.2.1"
                   ]
                },
-               "value":"casai"
+               "value":"applovin"
             }
          ],
          "adFree":[
