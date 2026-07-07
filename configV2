@@ -147,7 +147,7 @@
       "softUpdate":[
          {
             "id":"soft_update_versions",
-            "enabled":false,
+            "enabled":true,
             "matchMode":"and",
             "targeting":{
                "countries":{
