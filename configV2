@@ -544,7 +544,53 @@
                   ]
                }
             }
-         ]
+         ],
+      "downloadExtractor": [
+        {
+          "id": "download_extractor_default",
+          "enabled": true,
+          "matchMode": "and",
+          "targeting": {
+            "countries": {
+              "include": [],
+              "exclude": []
+            },
+            "platforms": [
+              "android",
+              "ios"
+            ],
+            "versions": [],
+            "userTypes": []
+          },
+          "value": {
+            "primary": "yt",
+            "secondary": "np"
+          }
+        }
+      ],
+      "searchExtractor": [
+        {
+          "id": "search_extractor_default",
+          "enabled": true,
+          "matchMode": "and",
+          "targeting": {
+            "countries": {
+              "include": [],
+              "exclude": []
+            },
+            "platforms": [
+              "android",
+              "ios"
+            ],
+            "versions": [],
+            "userTypes": []
+          },
+          "value": {
+            "primary": "yt",
+            "secondary": "np"
+          }
+        }
+      ]
       }
    }
 }
