@@ -295,7 +295,7 @@
                      "<1.2.1"
                   ]
                },
-               "value":"casai"
+               "value":"applovin"
             },
             {
                "id":"ads_provider_default",
@@ -318,7 +318,7 @@
                      ">=1.2.1"
                   ]
                },
-               "value":"applovin"
+               "value":"casai"
             }
          ],
          "adFree":[
