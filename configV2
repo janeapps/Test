@@ -288,11 +288,32 @@
                      ]
                   },
                   "platforms":[
-                     "android",
-                     "ios"
+                     "android"
                   ],
                   "versions":[
                      "<1.2.1"
+                  ]
+               },
+               "value":"applovin"
+            },
+    {
+               "id":"ads_provider_applovin",
+               "enabled":true,
+               "matchMode":"and",
+               "targeting":{
+                  "countries":{
+                     "include":[
+                        
+                     ],
+                     "exclude":[
+                        
+                     ]
+                  },
+                  "platforms":[
+                     "ios"
+                  ],
+                  "versions":[
+                     "<1.5.0"
                   ]
                },
                "value":"applovin"
