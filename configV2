@@ -112,6 +112,7 @@
             "targeting":{
                "countries":{
                   "include":[
+                     "TR",
                      "US",
                      "GB",
                      "MY",
