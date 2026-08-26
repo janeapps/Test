@@ -291,10 +291,9 @@
                      "android"
                   ],
                   "versions":[
-                     "<1.2.1"
                   ]
                },
-               "value":"applovin"
+               "value":"casai"
             },
     {
                "id":"ads_provider_applovin",
@@ -313,33 +312,9 @@
                      "ios"
                   ],
                   "versions":[
-                     "<1.5.0"
                   ]
                },
                "value":"applovin"
-            },
-            {
-               "id":"ads_provider_default",
-               "enabled":true,
-               "matchMode":"and",
-               "targeting":{
-                  "countries":{
-                     "include":[
-                        
-                     ],
-                     "exclude":[
-                        
-                     ]
-                  },
-                  "platforms":[
-                     "android",
-                     "ios"
-                  ],
-                  "versions":[
-                     ">=1.2.1"
-                  ]
-               },
-               "value":"casai"
             }
          ],
          "adFree":[
