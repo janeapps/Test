@@ -3,7 +3,7 @@
     "payload": {
       "context": {
         "client": {
-          "clientName": "VISIONOS",
+          "clientName": "VISIONOSXX",
           "clientVersion": "1.02",
           "deviceMake": "Apple",
           "deviceModel": "RealityDevice17,1",
@@ -27,7 +27,7 @@
     "payload": {
       "context": {
         "client": {
-          "clientName": "VISIONOS",
+          "clientName": "VISIONOSXX",
           "clientVersion": "1.02",
           "deviceMake": "Apple",
           "deviceModel": "RealityDevice17,1",
@@ -51,7 +51,7 @@
     "payload": {
       "context": {
         "client": {
-          "clientName": "VISIONOS",
+          "clientName": "VISIONOSXX",
           "clientVersion": "1.02",
           "deviceMake": "Apple",
           "deviceModel": "RealityDevice17,1",
