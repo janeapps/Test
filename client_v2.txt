@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 2,
+  "mp3DownloadClient": {
+    "requireWatchPage": true,
+    "mediaClient": {
+      "payload": {
+        "context": {
+          "client": {
+            "clientName": "ANDROID_VR",
+            "clientVersion": "1.56.21",
+            "deviceModel": "Quest 3",
+            "osVersion": "12",
+            "osName": "Android",
+            "androidSdkVersion": "32",
+            "hl": "en",
+            "timeZone": "UTC",
+            "utcOffsetMinutes": 0
+          }
+        }
+      },
+      "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+      "headers": {}
+    }
+  },
+  "mp3PlaybackClient": {
+    "requireWatchPage": true,
+    "mediaClient": {
+      "payload": {
+        "context": {
+          "client": {
+            "clientName": "ANDROID_VR",
+            "clientVersion": "1.56.21",
+            "deviceModel": "Quest 3",
+            "osVersion": "12",
+            "osName": "Android",
+            "androidSdkVersion": "32",
+            "hl": "en",
+            "timeZone": "UTC",
+            "utcOffsetMinutes": 0
+          }
+        }
+      },
+      "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+      "headers": {}
+    }
+  },
+  "mp4DownloadClient": {
+    "requireWatchPage": true,
+    "mediaClient": {
+      "payload": {
+        "context": {
+          "client": {
+            "clientName": "ANDROID",
+            "clientVersion": "20.10.38",
+            "androidSdkVersion": 30,
+            "userAgent": "com.google.android.youtube/20.10.38 (Linux; U; Android 11) gzip",
+            "hl": "en",
+            "timeZone": "UTC",
+            "utcOffsetMinutes": 0,
+            "osName": "Android",
+            "osVersion": "11"
+          }
+        }
+      },
+      "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+      "headers": {}
+    }
+  },
+  "mp4PlaybackClient": {
+    "requireWatchPage": false,
+    "mediaClient": {
+      "payload": {
+        "context": {
+          "client": {
+            "clientName": "ANDROID",
+            "clientVersion": "20.10.38",
+            "androidSdkVersion": 30,
+            "userAgent": "com.google.android.youtube/20.10.38 (Linux; U; Android 11) gzip",
+            "hl": "en",
+            "timeZone": "UTC",
+            "utcOffsetMinutes": 0,
+            "osName": "Android",
+            "osVersion": "11"
+          }
+        }
+      },
+      "apiUrl": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+      "headers": {}
+    }
+  }
+}
