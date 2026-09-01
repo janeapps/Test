@@ -1,5 +1,4 @@
 {
-  "schemaVersion": 2,
   "mp3DownloadClient": {
     "requireWatchPage": true,
     "mediaClient": {
