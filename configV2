@@ -291,9 +291,31 @@
                      "android"
                   ],
                   "versions":[
+                     "<2.0.0"
                   ]
                },
                "value":"casai"
+            },
+            {
+               "id":"ads_provider_applovin",
+               "enabled":true,
+               "matchMode":"and",
+               "targeting":{
+                  "countries":{
+                     "include":[
+                        
+                     ],
+                     "exclude":[
+                        
+                     ]
+                  },
+                  "platforms":[
+                     "android"
+                  ],
+                  "versions":[
+                  ]
+               },
+               "value":"applovin"
             },
     {
                "id":"ads_provider_applovin",
