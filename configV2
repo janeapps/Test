@@ -460,8 +460,7 @@
             "userTypes": []
           },
           "value": {
-            "packageName": "com.kurtsoft.tubeat",
-            "downloadUrl": "https://tubeat.app/indir"
+            "packageName": "com.kurtsoft.tubeat"
           }
         }
       ],
