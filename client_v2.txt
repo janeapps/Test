@@ -5,7 +5,7 @@
       "payload": {
         "context": {
           "client": {
-            "clientName": "VISIONOSXX",
+            "clientName": "VISIONOS",
             "clientVersion": "1.02",
             "deviceMake": "Apple",
             "deviceModel": "RealityDevice17,1",
@@ -27,7 +27,7 @@
       "payload": {
         "context": {
           "client": {
-            "clientName": "ANDROIDXX",
+            "clientName": "ANDROID",
             "clientVersion": "20.10.38",
             "androidSdkVersion": 30,
             "userAgent": "com.google.android.youtube/20.10.38 (Linux; U; Android 11) gzip",
@@ -47,7 +47,7 @@
       "payload": {
         "context": {
           "client": {
-            "clientName": "ANDROIDXX",
+            "clientName": "ANDROID",
             "clientVersion": "20.10.38",
             "androidSdkVersion": 30,
             "userAgent": "com.google.android.youtube/20.10.38 (Linux; U; Android 11) gzip",
@@ -67,7 +67,7 @@
       "payload": {
         "context": {
           "client": {
-            "clientName": "ANDROIDXX",
+            "clientName": "ANDROID",
             "clientVersion": "20.10.38",
             "androidSdkVersion": 30,
             "userAgent": "com.google.android.youtube/20.10.38 (Linux; U; Android 11) gzip",
