@@ -446,7 +446,7 @@
       "defaultPlayer": [
         {
           "id": "feature_default_player_tubeat_android_test",
-          "enabled": true,
+          "enabled": false,
           "matchMode": "and",
           "targeting": {
             "countries": {
@@ -460,7 +460,8 @@
             "userTypes": []
           },
           "value": {
-            "packageName": "com.kurtsoft.tubeat"
+            "packageName": "com.kurtsoft.tubeat",
+            "global":true
           }
         }
       ],
