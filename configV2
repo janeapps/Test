@@ -446,7 +446,7 @@
       "defaultPlayer": [
         {
           "id": "feature_default_player_tubeat_android_test",
-          "enabled": false,
+          "enabled": true,
           "matchMode": "and",
           "targeting": {
             "countries": {
