@@ -28,16 +28,16 @@
     ],
     "mrec_type": 2,
     "mrec_url": [
-        "https://www.instagram.com/forwheel_app/",
-        "https://play.google.com/store/apps/details?id=com.farlightgames.samo.gp"
+        "https://play.google.com/store/apps/details?id=com.kurtsoft.volumebooster",
+        "https://play.google.com/store/apps/details?id=com.kurtsoft.volumebooster"
     ],
     "first_mrec_ads_image": [
-        "https://i.ibb.co/LX4Ljw5C/sarkievreni-fastsave-05.png",
-        "https://i.ibb.co/LX4Ljw5C/sarkievreni-fastsave-05.png"
+        "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_tr.png",
+        "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_en.png"
     ],
     "second_mrec_ads_image": [
-        "https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png",
-        "https://i.ibb.co/sv4k6sYh/sarkievreni-fastsave-06.png"
+        "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_tr.png",
+        "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_en.png"
     ],
     "is_show_related": true,
     "is_redirect_banned_user": true,
