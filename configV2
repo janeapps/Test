@@ -443,28 +443,6 @@
           }
         }
       ],
-      "defaultPlayer": [
-        {
-          "id": "feature_default_player_tubeat_android_test",
-          "enabled": true,
-          "matchMode": "and",
-          "targeting": {
-            "countries": {
-              "include": [],
-              "exclude": []
-            },
-            "platforms": [
-              "android"
-            ],
-            "versions": [],
-            "userTypes": []
-          },
-          "value": {
-            "packageName": "com.kurtsoft.tubeat",
-            "global":true
-          }
-        }
-      ],
       "proFeature": [
         {
           "id": "pro_feature_rule",
