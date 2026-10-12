@@ -1,57 +1,36 @@
 {
-    "target_search_count": 2,
-    "user_active_time": 2,
-    "user_delay_time": 2,
+    "target_search_count": 5,
+    "user_active_time": 6,
+    "user_delay_time": 9,
     "is_promotion_active": true,
     "first_ad_type": 1,
-    "new_user_first_ad_step": 3,
+    "new_user_first_ad_step": 1,
     "first_ad_step": 1,
-"current_version": "1.5.4",
-"force_update": "1.0.0",
-    "new_package_and_redirect": "",
+    "current_version": "1.0.0",
+    "force_update": "1.0.0",
+    "new_package_and_redirect": "0",
     "new_target_app_logo": "0",
     "message_id": "0",
-    "message_title": "Playlist eklendi!",
-    "message_description": "Hemen yeni playlistini olustur ve kullanmaya basla!",
+    "message_title": "Başlık",
+    "message_description": "Açıklama",
     "is_seen_time": 0,
     "message_action_button": "0",
     "message_action_url": "0",
-    "message_action_button_text": "Playliste git",
-    "is_secure_flag": false,
-    "not_show_ads_status": true,
-    "not_show_ads_android_api_level": [
-        28
-    ],
-    "not_show_ads_types": [
-        "mrec",
-        "interstitial"
-    ],
-    "mrec_type": 2,
-    "mrec_url": [
-        "https://play.google.com/store/apps/details?id=com.kurtsoft.volumebooster",
-        "https://play.google.com/store/apps/details?id=com.kurtsoft.booster"
-    ],
-    "first_mrec_ads_image": [
-        "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_tr.png",
-        "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_en.png"
-    ],
-    "second_mrec_ads_image": [
-         "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_second_tr.png",
-          "https://raw.githubusercontent.com/janeapps/Test/main/mrec/reference_mrec_second_en.png"
-    ],
+    "message_action_button_text":"Aksiyon buton",
+    "is_secure_flag": true,
+    "not_show_ads_status": false,
+    "not_show_ads_android_api_level": [28],
+    "not_show_ads_types": ["mrec", "interstitial"],
+    "mrec_type": 0,
+    "mrec_url": ["0", "0"],
+    "first_mrec_ads_image": ["0", "0"],
+    "second_mrec_ads_image": ["0", "0"],
     "is_show_related": true,
     "is_redirect_banned_user": true,
-    "is_reference_active": false,
+    "is_reference_active": true,
     "is_show_promotion_dialog": true,
-    "is_show_interstitial_android12_below": false,
-    "feature_flags": [
-      {
-    "key": "file_download_fix",
-    "isEnabled": "true",
-    "min_app_version": "2.7.5"
-      }
-    ],
-        "deny_cc": [
+    "is_show_interstitial_android12_below": true,
+    "deny_cc": [
         "US",
         "GB",
         "MY",
