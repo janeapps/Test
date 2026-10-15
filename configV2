@@ -113,10 +113,26 @@
             "exclude": []
           },
           "platforms": [
-            "android",
-            "ios"
+            "android"
           ],
           "versions": []
+        }
+      },
+      {
+        "id": "block_access_ios",
+        "enabled": true,
+        "matchMode": "and",
+        "targeting": {
+          "countries": {
+            "include": [],
+            "exclude": []
+          },
+          "platforms": [
+            "ios"
+          ],
+          "versions": [
+            "1.3.0"
+          ]
         }
       }
     ],
