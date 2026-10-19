@@ -117,7 +117,7 @@
           "versions": []
         }
       },
-      {
+       {
         "id": "block_access_ios",
         "enabled": true,
         "matchMode": "and",
@@ -130,7 +130,7 @@
             "ios"
           ],
           "versions": [
-            "1.2.0"
+            ">=1.2.0"
           ]
         }
       }
