@@ -473,27 +473,7 @@
             "userTypes": []
           },
           "value": {
-            "packageName": "com.kurtsoft.tubeat"
-          }
-        },
-        {
-          "id": "feature_default_player_sample",
-          "enabled": false,
-          "matchMode": "and",
-          "targeting": {
-            "countries": {
-              "include": [],
-              "exclude": []
-            },
-            "platforms": [
-              "android"
-            ],
-            "versions": [],
-            "userTypes": []
-          },
-          "value": {
             "packageName": "com.kurtsoft.tubeat",
-            "downloadUrl": "https://play.google.com/store/apps/details?id=com.kurtsoft.tubeat",
             "downloadsOnly": true
           }
         }
