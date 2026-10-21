@@ -77,7 +77,8 @@
           ],
           "versions": [
             "1.3.1"
-          ]
+          ],
+          "userTypes": []
         },
         "value": {
           "showInterstitialAd": true
@@ -115,10 +116,11 @@
           "platforms": [
             "android"
           ],
-          "versions": []
+          "versions": [],
+          "userTypes": []
         }
       },
-       {
+      {
         "id": "block_access_ios",
         "enabled": true,
         "matchMode": "and",
@@ -132,7 +134,8 @@
           ],
           "versions": [
             ">=1.2.0"
-          ]
+          ],
+          "userTypes": []
         }
       }
     ],
@@ -152,7 +155,8 @@
           ],
           "versions": [
             "<1.2.1"
-          ]
+          ],
+          "userTypes": []
         }
       }
     ],
@@ -170,7 +174,8 @@
             "android",
             "ios"
           ],
-          "versions": []
+          "versions": [],
+          "userTypes": []
         }
       }
     ],
@@ -189,7 +194,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ],
@@ -239,7 +245,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ]
@@ -258,7 +265,8 @@
             "platforms": [
               "android"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": "casai"
         },
@@ -274,7 +282,8 @@
             "platforms": [
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": "applovin"
         }
@@ -293,7 +302,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ],
@@ -315,7 +325,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 10,
@@ -341,7 +352,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 8,
@@ -370,7 +382,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 3,
@@ -392,7 +405,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           },
           "value": {
             "firstAdDelay": 15,
@@ -418,7 +432,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ],
@@ -436,7 +451,8 @@
               "android",
               "ios"
             ],
-            "versions": []
+            "versions": [],
+            "userTypes": []
           }
         }
       ],
@@ -458,6 +474,27 @@
           },
           "value": {
             "packageName": "com.kurtsoft.tubeat"
+          }
+        },
+        {
+          "id": "feature_default_player_sample",
+          "enabled": false,
+          "matchMode": "and",
+          "targeting": {
+            "countries": {
+              "include": [],
+              "exclude": []
+            },
+            "platforms": [
+              "android"
+            ],
+            "versions": [],
+            "userTypes": []
+          },
+          "value": {
+            "packageName": "com.kurtsoft.tubeat",
+            "downloadUrl": "https://play.google.com/store/apps/details?id=com.kurtsoft.tubeat",
+            "downloadsOnly": true
           }
         }
       ],
@@ -523,6 +560,123 @@
           "value": {
             "primary": "yt",
             "secondary": "np"
+          }
+        }
+      ],
+      "storageLocation": [
+        {
+          "id": "feature_storage_location",
+          "enabled": false,
+          "matchMode": "and",
+          "targeting": {
+            "countries": {
+              "include": [],
+              "exclude": []
+            },
+            "platforms": [
+              "android",
+              "ios"
+            ],
+            "versions": [],
+            "userTypes": []
+          }
+        }
+      ],
+      "bulkDownload": [
+        {
+          "id": "feature_bulk_download",
+          "enabled": false,
+          "matchMode": "and",
+          "targeting": {
+            "countries": {
+              "include": [],
+              "exclude": []
+            },
+            "platforms": [
+              "android",
+              "ios"
+            ],
+            "versions": [],
+            "userTypes": []
+          }
+        }
+      ],
+      "metadataLookup": [
+        {
+          "id": "feature_metadata_lookup",
+          "enabled": false,
+          "matchMode": "and",
+          "targeting": {
+            "countries": {
+              "include": [],
+              "exclude": []
+            },
+            "platforms": [
+              "android",
+              "ios"
+            ],
+            "versions": [],
+            "userTypes": []
+          },
+          "value": {
+            "innerTube": true,
+            "newPipe": true,
+            "youtubeExplode": true,
+            "innerTubeClient": {
+              "enabled": true,
+              "matchToleranceSeconds": 15,
+              "artworkEdgePx": 1200,
+              "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+              "music": {
+                "enabled": true,
+                "endpoint": "https://music.youtube.com/youtubei/v1/search",
+                "origin": "https://music.youtube.com",
+                "clientName": "WEB_REMIX",
+                "clientId": "67",
+                "clientVersion": "1.20240403.01.00",
+                "searchParams": "Eg-KAQwIARAAGAAgACgAMABqChAEEAUQAxAKEAk%3D"
+              },
+              "video": {
+                "enabled": true,
+                "endpoint": "https://www.youtube.com/youtubei/v1/search",
+                "origin": "https://www.youtube.com",
+                "clientName": "WEB",
+                "clientId": "1",
+                "clientVersion": "2.20240401.00.00",
+                "searchParams": "EgIQAfABAQ%3D%3D"
+              },
+              "watch": {
+                "enabled": true,
+                "endpoint": "https://music.youtube.com/youtubei/v1/next",
+                "origin": "https://music.youtube.com",
+                "clientName": "WEB_REMIX",
+                "clientId": "67",
+                "clientVersion": "1.20240403.01.00"
+              }
+            }
+          }
+        }
+      ],
+      "lyricsLookup": [
+        {
+          "id": "feature_lyrics_lookup",
+          "enabled": false,
+          "matchMode": "and",
+          "targeting": {
+            "countries": {
+              "include": [],
+              "exclude": []
+            },
+            "platforms": [
+              "android",
+              "ios"
+            ],
+            "versions": [],
+            "userTypes": []
+          },
+          "value": {
+            "lrclib": true,
+            "youtubeMusic": true
           }
         }
       ]
