@@ -64,7 +64,7 @@
     "forceUpdate": [
       {
         "id": "force_update_versions",
-        "enabled": true,
+        "enabled": false,
         "matchMode": "and",
         "targeting": {
           "countries": {
